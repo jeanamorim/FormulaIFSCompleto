@@ -1,0 +1,52 @@
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.dll.config
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.dll
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.pdb
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.dll
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.xml
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csproj.CopyComplete
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.dll
+C:\Users\PC\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.pdb
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.dll.config
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.dll
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.pdb
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.dll
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.xml
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csproj.CoreCompileInputs.cache
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csproj.CopyComplete
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.dll
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.pdb
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.Migrations.PrimeiraMigracao.resources
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csproj.GenerateResource.cache
+D:\Desktop\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.Migrations.segundaMig.resources
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.dll.config
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.dll
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.pdb
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.dll
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.xml
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csprojAssemblyReference.cache
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csproj.CoreCompileInputs.cache
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csproj.CopyComplete
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.dll
+C:\Users\Maicon\Desktop\Nova pasta\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.pdb
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.dll.config
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.dll
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\FormulaIFS.Model.pdb
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.dll
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.SqlServer.dll
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.xml
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\bin\Debug\EntityFramework.SqlServer.xml
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csprojAssemblyReference.cache
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csproj.CoreCompileInputs.cache
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csproj.CopyComplete
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.dll
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.pdb
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.Migrations.a.resources
+D:\Desktop\novo1\gledsong2-turmaaspnet2018.2-72b5b75fb617\FormulaIFS.Model\obj\Debug\FormulaIFS.Model.csproj.GenerateResource.cache
